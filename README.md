@@ -1,3 +1,2 @@
-# Demo_Class_1
-Demo UI game buổi 1
-Test_Commit
+# DEMO_Class_1
+ Demo bài tập buổi 1
